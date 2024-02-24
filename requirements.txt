@@ -1,2 +1,2 @@
 pandas
-sci-kit learn
+scikit-learn
